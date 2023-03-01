@@ -1,8 +1,8 @@
-nome = input('Qual é o seu nome: ')
-idade = input('Qual é a sua idade: ')
-idade = str(idade)
-cidade = input('Onde você mora: ')
+name = input('Qual é o seu nome: ')
+age = input('Qual é a sua idade: ')
+age = str(age)
+city = input('Onde você mora: ')
 
-print('O ' + nome + ' tem ' + idade + ' anos de idade e mora em ' + cidade + '.')
+print('O ' + name + ' tem ' + age + ' anos de idade e mora em ' + city + '.')
 
 # O Artur tem 22 anos de idade e mora em Porto Alegre.
